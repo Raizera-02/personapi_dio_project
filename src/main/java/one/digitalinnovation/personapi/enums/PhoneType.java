@@ -9,7 +9,7 @@ public enum PhoneType {
 
     HOME("Home"),
     MOBILE("Mobile"),
-    COMMERCIAL("Comercial");
+    COMMERCIAL("Commercial");
 
     private final String description;
 }
